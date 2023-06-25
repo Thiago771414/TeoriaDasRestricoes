@@ -18,11 +18,13 @@ Em resumo, a abordagem de "escopo, tempo e prazo fixo" na Teoria das Restriçõe
 ## Projeto
 ![Imagem](https://www.tocico.org/resource/resmgr/Buttons/References.jpg)
 
-## Livros | Site
+## Livros
 !["A Meta"](https://m.media-amazon.com/images/I/413j0Rj4BfS._SX346_BO1,204,203,200_.jpg)
 !["Critical Chain"](https://m.media-amazon.com/images/I/416tuqikjJL._SX329_BO1,204,203,200_.jpg)
 !["Theory of Constraints Handbook"](https://m.media-amazon.com/images/I/41ci-1uHDnL._SX397_BO1,204,203,200_.jpg)
-!["TOCICO"](https://www.tocico.org/)
+
+## Site
+["TOCICO"](https://www.tocico.org/)
 
 # Autor
 Thiago Reis Lima
