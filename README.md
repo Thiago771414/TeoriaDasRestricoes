@@ -15,6 +15,9 @@ Por exemplo, imagine que uma empresa esteja desenvolvendo um novo produto. Inici
 
 Em resumo, a abordagem de "escopo, tempo e prazo fixo" na Teoria das Restrições pode limitar a capacidade de resposta a mudanças e a obtenção de melhores resultados. Em vez disso, é recomendado adotar uma abordagem de gerenciamento baseada em restrições, identificando a restrição crítica e permitindo flexibilidade no restante do projeto para maximizar a eficiência global.
 
+## Projeto
+![Imagem](https://www.tocico.org/resource/resmgr/Buttons/References.jpg)
+
 ## Livros | Site
 ["A Meta"](https://m.media-amazon.com/images/I/413j0Rj4BfS._SX346_BO1,204,203,200_.jpg)
 ["Critical Chain"](https://m.media-amazon.com/images/I/416tuqikjJL._SX329_BO1,204,203,200_.jpg)
